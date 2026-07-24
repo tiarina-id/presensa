@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1784895083814,
+      "tag": "0000_blushing_squadron_sinister",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1784910309998,
+      "tag": "0001_volatile_prima",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1784912625340,
+      "tag": "0002_wooden_devos",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1784913286464,
+      "tag": "0003_secret_lightspeed",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1784915047048,
+      "tag": "0004_quick_frog_thor",
+      "breakpoints": true
+    }
+  ]
+}

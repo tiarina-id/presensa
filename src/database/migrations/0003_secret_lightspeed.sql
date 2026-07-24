@@ -1,0 +1,1 @@
+ALTER TABLE `shifts` ADD `is_active` boolean DEFAULT true NOT NULL;

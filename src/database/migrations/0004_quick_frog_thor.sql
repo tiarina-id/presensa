@@ -1,0 +1,1 @@
+ALTER TABLE `attendance_records` MODIFY COLUMN `status` enum('PRESENT','LATE','MANUAL','REJECTED') NOT NULL;

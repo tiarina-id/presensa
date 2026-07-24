@@ -1,0 +1,1 @@
+ALTER TABLE `schedules` ADD `days_of_week` varchar(20) DEFAULT '0,1,2,3,4,5,6' NOT NULL;
